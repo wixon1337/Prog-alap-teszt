@@ -1,0 +1,23 @@
+{
+  "name": "prog-alap-teszt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "szamolas.js",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wixon1337/Prog-alap-teszt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wixon1337/Prog-alap-teszt/issues"
+  },
+  "homepage": "https://github.com/wixon1337/Prog-alap-teszt#readme"
+}
